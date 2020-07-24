@@ -1,8 +1,8 @@
 import React, { useState, useContext } from 'react';
 import { Link } from 'react-router-dom'
 
-import HeaderLoggedOut from './headerLoggedOut'
-import HeaderLoggedIn from './headerLoggedIn'
+import HeaderLoggedOut from './HeaderLoggedOut'
+import HeaderLoggedIn from './HeaderLoggedIn'
 
 import StateContext from '../StateContext'
 
