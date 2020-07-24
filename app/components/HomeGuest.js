@@ -4,7 +4,7 @@ import { CSSTransition } from 'react-transition-group'
 import Axios from 'axios'
 
 import DispatchContext from '../DispatchContext'
-import Page from './page'
+import Page from './Page'
 
 function HomeGuest() {
    const appDispatch = useContext(DispatchContext)

@@ -5,7 +5,7 @@ import Axios from 'axios'
 import StateContext from '../StateContext'
 import DispatchContext from '../DispatchContext'
 
-import Page from './page'
+import Page from './Page'
 
 function CreatePost(props) {
 

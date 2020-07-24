@@ -3,7 +3,7 @@ import Axios from "axios";
 
 import { useParams, Link } from 'react-router-dom'
 
-import LoadingDotsIcon from './loadingDotsIcon';
+import LoadingDotsIcon from './LoadingDotsIcon';
 import StateContext from '../StateContext'
 
 function ProfileFollow(props) {

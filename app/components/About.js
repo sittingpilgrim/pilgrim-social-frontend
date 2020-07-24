@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react'
 
-import Page from './page'
+import Page from './Page'
 
 function About() {
 

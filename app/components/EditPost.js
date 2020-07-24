@@ -3,8 +3,8 @@ import { useImmerReducer } from 'use-Immer'
 import Axios from "axios";
 import { useParams, Link, withRouter } from 'react-router-dom'
 
-import Page from './page'
-import LoadingDotsIcon from './loadingDotsIcon';
+import Page from './Page'
+import LoadingDotsIcon from './LoadingDotsIcon';
 import StateContext from '../StateContext'
 import DispatchContext from '../DispatchContext'
 import NotFound from "./NotFound";

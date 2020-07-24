@@ -18,7 +18,7 @@ import Terms from './components/Terms'
 import FlashMessages from './components/FlashMessages'
 import Profile from './components/Profile'
 import EditPost from './components/EditPost'
-import LoadingDotsIcon from './components/loadingDotsIcon'
+import LoadingDotsIcon from './components/LoadingDotsIcon'
 
 import StateContext from './StateContext'
 import DispatchContext from './DispatchContext'

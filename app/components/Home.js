@@ -3,8 +3,8 @@ import { useImmer } from 'use-Immer'
 import { Link } from 'react-router-dom'
 import Axios from "axios";
 
-import Page from './page'
-import LoadingDotsIcon from './loadingDotsIcon'
+import Page from './Page'
+import LoadingDotsIcon from './LoadingDotsIcon'
 import StateContext from '../StateContext'
 import Post from './Post'
 

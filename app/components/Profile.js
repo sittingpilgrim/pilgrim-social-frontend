@@ -3,7 +3,7 @@ import { useImmer } from 'use-Immer'
 import { useParams, NavLink, Switch, Route } from 'react-router-dom'
 import Axios from 'axios'
 
-import Page from './page'
+import Page from './Page'
 
 import StateContext from '../StateContext'
 import ProfilePosts from './ProfilePosts'

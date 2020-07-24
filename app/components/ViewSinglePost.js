@@ -4,9 +4,9 @@ import ReactTooltip from 'react-tooltip'
 import Axios from "axios";
 import { useParams, Link, withRouter } from 'react-router-dom'
 
-import Page from './page'
+import Page from './Page'
 import EditPost from './EditPost'
-import LoadingDotsIcon from './loadingDotsIcon';
+import LoadingDotsIcon from './LoadingDotsIcon';
 import NotFound from './NotFound'
 import StateContext from '../StateContext'
 import DispatchContext from '../DispatchContext'
