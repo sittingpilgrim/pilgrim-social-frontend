@@ -1,6 +1,6 @@
 import React, { useEffect, useContext, useState } from "react"
 import { Link } from 'react-router-dom'
-import { useImmer } from 'use-Immer'
+import { useImmer } from 'use-immer'
 import Axios from 'axios'
 
 import DispatchContext from '../DispatchContext'
